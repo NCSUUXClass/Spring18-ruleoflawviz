@@ -5,4 +5,5 @@ comprehensive and strongly enforced law. In this project, you will create and te
 infographics that educate the broader public about the rule of law in their country.
 
 Client: James Broughton, VP for UX at LexisNexis
+
 Team: P Desai, Himani, Hong, Parikh, Yu, W Zhang
